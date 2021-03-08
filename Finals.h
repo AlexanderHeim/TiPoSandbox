@@ -1,0 +1,9 @@
+#pragma once
+
+int32_t WINDOW_STARTPOS_X = 100;
+int32_t WINDOW_STARTPOS_Y = 100;
+
+int32_t WINDOW_WIDTH = 400;
+int32_t WINDOW_HEIGHT = 400;
+
+int32_t PIXEL_SIZE = 4;
